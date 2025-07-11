@@ -1,3 +1,5 @@
 .venv
 agentic_ai/
 __pycache__/
+.env
+
